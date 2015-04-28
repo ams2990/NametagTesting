@@ -1,0 +1,4 @@
+name: NametagTesting
+version: ${project.version}
+main: com.amshulman.nametag.NametagPlugin
+softdepend: [TagAPI, iTag]
